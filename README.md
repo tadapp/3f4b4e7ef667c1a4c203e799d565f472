@@ -1,0 +1,2 @@
+# 3f4b4e7ef667c1a4c203e799d565f472
+App id 588F2-2FF86-517E6-A6FBE-95B02, version name - test2
